@@ -1,0 +1,101 @@
+.underEstimateDiv{
+    background: rgba(248, 248, 248, 0.521);
+    box-shadow: 1px 10px 10px 10px #2d2e2e93;
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+}
+
+.mapAvenueContainer{
+    justify-content: end;
+    
+}
+
+.avenueNakshaaw{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 700px;
+    width: 544px;
+    padding: 20px;
+    padding-bottom: 40px;
+    background: #154f87;
+    backdrop-filter: blur(20px);
+    justify-content: end;
+}
+
+.query{
+    margin: 80px;
+    margin-top: 0px;
+    bottom: 0px;
+}
+
+.queryData{
+    border: 1px solid rgb(13, 13, 14);
+    width: 450px;
+    padding: 5px;
+    height: 50px;
+
+}
+
+.queryButton{
+    border: 1px solid rgb(1, 118, 185);
+    width: 450px;
+    height: 50px;
+    padding: 5px;
+    background-color: rgb(1, 138, 218);
+    color: aliceblue;
+}
+
+.getInTouch{
+
+    margin-left: 35px;
+    height:225px;
+    width: 500px;
+}
+
+.kontakt{
+    margin-left: 70px;
+    margin-top: 5px;
+}
+
+.redkarDe{
+    color: rgb(255, 0, 76);
+}
+.numSpace {
+    margin-left: 24px;
+}
+
+.landSpace {
+    margin-left: 4px;
+}
+
+.mailSpace {
+    margin-left: 33px;
+}
+@media only screen and (max-width: 800px) {
+    .avenueNakshaaw{
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        height: 500px;
+        width: 499px;
+        padding: 20px;
+        background: #154f87;
+        backdrop-filter: blur(20px);
+        justify-content: end;
+    }
+    .getInTouch{
+
+        margin-left: 35px;
+        height:225px;
+        width: 400px;
+    }
+    .queryData{
+        
+        width: 300px;
+        
+    
+    }
+    .queryButton{
+        width: 300px
+    }
+}

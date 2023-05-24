@@ -1,0 +1,47 @@
+.thodaLeftMeLenaawH{
+    margin-left: 10px;
+    margin-top: 120px;
+}
+
+.whereWe{
+    font-size: 70px;
+}
+
+.h3sub{
+    font-size: 40px;
+}
+
+.h4sub{
+    font-size: 30px;
+    justify-content: right;
+}
+
+.naiKhaaliServeMay{
+    background: -webkit-linear-gradient(#1997e0, #da1c1c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+@media only screen and (max-width: 800px) {
+
+    .thodaLeftMeLenaawH{
+        margin-left: 10px;
+        margin-top: 120px;
+    }
+    
+    .whereWe{
+        font-size: 35px;
+    }
+    
+    .h3sub{
+        font-size: 20px;
+    }
+    
+    .h4sub{
+        font-size: 15px;
+    }
+    .nakshaaw{
+        height:1000px;
+        width: 500px;
+    }
+}

@@ -1,0 +1,12 @@
+.secondSecHeading{  
+    background: -webkit-linear-gradient(#1997e0, #da1c1c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 60px;
+}
+
+@media only screen and (max-width: 800px) {
+    .secondSecHeading{  
+        font-size: 30px;
+    }
+}

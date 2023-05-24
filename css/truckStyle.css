@@ -1,0 +1,49 @@
+.truck {
+    background-image: url("../assets/truckPhoto.svg");
+    background-size: 100%;
+}
+
+.textImg {
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-bottom: 400px;
+    height: auto;
+    
+}
+
+.weGo {
+    background: -webkit-linear-gradient(#1997e0, #da1c1c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 100px;
+}
+.learnMore{
+    color: white;
+    background: -webkit-linear-gradient(right, #1997e0, #da1c1c);
+    padding: 3px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 100px;
+    
+}
+@media only screen and (max-width: 800px) {
+    .textImg {
+        padding-top: 10px;
+        padding-left: 5px;
+        padding-bottom: 120px;
+        height: auto;
+    }
+    .extraMiles{
+        font-size: medium;
+    }
+    .weGo {
+        font-size: 50px;
+    }
+    .learnMore{
+        padding: 3px;
+        border-radius: 10px;
+        margin-top: 10px;
+        
+    }
+}

@@ -1,0 +1,37 @@
+hr {
+    border: 3px solid #74b4c8;
+}
+
+.footerLogo{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+.footerAddress{
+    margin-top: 40px;
+}
+
+.fBLI{
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.kdtAnder{
+    padding: 20px;
+}
+
+.fBLIAnder{
+    padding: 10px;
+}
+
+.copyRight {
+    margin-top: 90px;
+    font-size: 15px;
+}
+
+@media only screen and (max-width: 800px) {
+    .footerLogo{
+        margin-left: 200px;
+        
+    }
+}

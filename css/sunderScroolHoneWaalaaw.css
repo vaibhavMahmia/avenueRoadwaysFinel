@@ -1,0 +1,30 @@
+.sunderScrollContainer {
+    padding-top: 20px;
+    background: -webkit-linear-gradient(#88d1ff, #b1f3ff);
+}
+
+.taakatwarClintle{
+    font-size: 60px;
+    background: -webkit-linear-gradient(right,#037dc4, #b40000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.shaktishaliScentence{
+    font-size: 30px;
+}
+
+.cardImg{
+    height: 400px;
+    width: 800px;
+}
+
+@media only screen and (max-width: 800px) {
+
+    .taakatwarClintle{
+        font-size: 30px;
+    }
+    .shaktishaliScentence{
+        font-size: 15px;
+    }
+}

@@ -1,0 +1,23 @@
+.threeDivs{
+    padding: 13px;
+}
+
+.mongo{
+    background-color: rgb(223, 223, 223);
+    border-radius: 20px;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.lMore{
+    color: white;
+    background: -webkit-linear-gradient(left, rgb(248, 52, 52),rgb(44, 92, 248));
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.truckBharow{
+    width: 230px;
+    height: 230px;
+    
+}

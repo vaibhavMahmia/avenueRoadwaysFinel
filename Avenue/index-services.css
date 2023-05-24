@@ -1,0 +1,503 @@
+.our-services-child {
+  position: absolute;
+  top: 629px;
+  left: 1px;
+  background: linear-gradient(
+    180deg,
+    rgba(136, 209, 255, 0.4),
+    rgba(177, 243, 255, 0)
+  );
+  width: 1440px;
+  height: 2263px;
+}
+.ar-only-logo-1 {
+  position: absolute;
+  top: 36px;
+  left: 45px;
+  width: 157px;
+  height: 148px;
+  object-fit: cover;
+}
+.our-services-item {
+  position: absolute;
+  width: 100%;
+  top: 3285px;
+  right: 0;
+  left: 0;
+  background-color: var(--vrgear-light-color-divider);
+  height: 4px;
+}
+.d-render-fleet-delivery-vehicl-icon {
+  position: absolute;
+  top: 192px;
+  left: 648px;
+  width: 1126px;
+  height: 437px;
+  object-fit: cover;
+}
+.clients-who-believe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 800;
+  background: linear-gradient(90.61deg, #b9381e, #18218c 76.19%, #18218c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.clients-who-believe-in-us-wrapper {
+  position: absolute;
+  top: 2543px;
+  left: 469px;
+  width: 503px;
+  height: 48px;
+  font-size: var(--font-size-21xl);
+}
+.transport-logistics {
+  position: absolute;
+  top: 318px;
+  left: 63px;
+  font-size: 60px;
+  line-height: 76px;
+  text-transform: capitalize;
+  display: inline-block;
+  color: var(--main-dark);
+  text-align: left;
+  width: 516px;
+}
+.our-services-inner {
+  position: absolute;
+  top: 2866.65px;
+  left: 0;
+  width: 1319.43px;
+  height: 902.35px;
+  opacity: 0.15;
+}
+.ar-only-logo-3 {
+  position: absolute;
+  top: 3368px;
+  left: 74px;
+  width: 160px;
+  height: 164px;
+  object-fit: cover;
+}
+.round-place-24px-icon {
+  position: relative;
+  width: 26px;
+  height: 28px;
+}
+.abc-company {
+  position: relative;
+  line-height: 25px;
+  display: inline-block;
+  width: 458px;
+  flex-shrink: 0;
+}
+.office-address {
+  position: absolute;
+  top: 3408px;
+  left: 489px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-300);
+}
+.round-phone-24px-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.b {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+}
+.phone-number,
+.phone-number-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.phone-number-parent {
+  position: absolute;
+  top: 3474px;
+  left: 489px;
+  align-items: flex-start;
+  gap: var(--gap-101xl);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-montserrat);
+}
+.ellipse-icon {
+  position: absolute;
+  top: 2981.65px;
+  left: 91.57px;
+  width: 1348.43px;
+  height: 787.35px;
+  opacity: 0.15;
+}
+.as-a-truck {
+  margin: 0;
+}
+.as-a-truck-container {
+  position: absolute;
+  top: 2624px;
+  left: 71px;
+  font-size: var(--font-size-xl);
+  line-height: 176.5%;
+  font-weight: 600;
+  text-align: justify;
+  display: inline-block;
+  width: 600px;
+}
+.vardhman-logo-2-icon {
+  position: absolute;
+  top: 2648px;
+  left: 1058px;
+  width: 124px;
+  height: 126px;
+  object-fit: cover;
+}
+.ginni-1-icon,
+.lagnam-spintex-logo-1 {
+  position: absolute;
+  top: 2774px;
+  left: 754px;
+  width: 282px;
+  height: 90px;
+  object-fit: cover;
+}
+.lagnam-spintex-logo-1 {
+  top: 2897px;
+  left: 723px;
+  width: 163px;
+  height: 92px;
+}
+.nahar-industrial-enterprises-l,
+.nitin-spinners-limited-2-1 {
+  position: absolute;
+  top: 2883px;
+  left: 926px;
+  width: 194px;
+  height: 108px;
+  object-fit: cover;
+}
+.nitin-spinners-limited-2-1 {
+  top: 2844px;
+  left: 1129px;
+  width: 190px;
+  height: 106px;
+}
+.rswm-logo-1-icon,
+.sagar-inds-1,
+.sutlej-inds-1 {
+  position: absolute;
+  top: 2990px;
+  left: 1145px;
+  width: 205px;
+  height: 115px;
+  object-fit: cover;
+}
+.sagar-inds-1,
+.sutlej-inds-1 {
+  top: 2663px;
+  left: 717px;
+  width: 330px;
+  height: 59px;
+}
+.sutlej-inds-1 {
+  top: 2693px;
+  left: 1215px;
+  width: 170px;
+  height: 98px;
+}
+.sangam-india-limited-3-1,
+.sudiva-logo-1 {
+  position: absolute;
+  top: 3032px;
+  left: 920px;
+  width: 168px;
+  height: 84px;
+  object-fit: cover;
+}
+.sangam-india-limited-3-1 {
+  top: 3024px;
+  left: 716px;
+  width: 159px;
+  height: 88px;
+}
+.safe-efficient-and {
+  position: absolute;
+  top: 679px;
+  left: 288px;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  background: linear-gradient(90.61deg, #b9381e, #18218c 76.19%, #18218c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.avenue-roadways-provides {
+  position: absolute;
+  top: 750px;
+  left: 451px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.01em;
+  line-height: 30px;
+  display: inline-block;
+  width: 540px;
+}
+.unlock-seamless-last-mile {
+  font-weight: 600;
+}
+.experience-the-convenience-of {
+  margin-bottom: 0;
+}
+.every-mile-matters {
+  font-weight: 600;
+  font-family: var(--text-2-regular);
+}
+.unlock-seamless-last-mile-conn {
+  margin: 0;
+  padding-left: var(--padding-5xl);
+}
+.unlock-seamless-last-mile-container {
+  position: absolute;
+  top: 867px;
+  left: 525px;
+  line-height: 176.5%;
+  text-align: justify;
+  display: inline-block;
+  width: 863px;
+}
+.about-us,
+.home {
+  position: absolute;
+  top: 5px;
+  left: -16px;
+  line-height: 32px;
+  font-weight: 600;
+}
+.about-us {
+  left: 106px;
+}
+.our-team {
+  left: 279px;
+}
+.contact-us,
+.news-room,
+.our-services1,
+.our-team {
+  position: absolute;
+  top: 5px;
+  line-height: 32px;
+  font-weight: 600;
+}
+.our-services1 {
+  left: 451px;
+  cursor: pointer;
+}
+.contact-us,
+.news-room {
+  left: 665px;
+}
+.contact-us {
+  left: 865px;
+}
+.group-div,
+.header-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 1010px;
+  height: 42px;
+}
+.group-div {
+  top: 88px;
+  right: 114px;
+  
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--blue);
+}
+.best-last-mile-connectivity,
+.material-exports,
+.track-of-consignments {
+  position: absolute;
+  top: 1038px;
+  left: 63px;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+  background: linear-gradient(
+    94.6deg,
+    rgba(51, 51, 51, 0.83),
+    rgba(186, 56, 31, 0.83),
+    rgba(49, 37, 124, 0.83)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 417px;
+}
+.material-exports,
+.track-of-consignments {
+  top: 1614px;
+  left: 971px;
+}
+.track-of-consignments {
+  top: 2213px;
+  left: 63px;
+}
+.gain-peace-of-container,
+.our-road-transportation-container {
+  position: absolute;
+  top: 1421px;
+  left: 63px;
+  line-height: 176.5%;
+  font-weight: 600;
+  font-family: var(--font-inherit);
+  text-align: justify;
+  display: inline-block;
+  width: 878px;
+}
+.gain-peace-of-container {
+  top: 2011px;
+  left: 519px;
+  width: 869px;
+}
+.copyright-2018 {
+  position: absolute;
+  top: 0;
+  left: 850px;
+  display: inline-block;
+  width: 232px;
+  height: 0.05px;
+  opacity: 0.5;
+  mix-blend-mode: normal;
+}
+.about-us1,
+.our-services2 {
+  position: relative;
+  text-transform: uppercase;
+}
+.our-services2 {
+  cursor: pointer;
+}
+.about-us-parent,
+.secondary-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-parent {
+  gap: var(--gap-22xl);
+}
+.secondary-footer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 0.05px;
+  font-size: var(--font-size-mini);
+  font-family: var(--text-2-regular);
+}
+.copyright-2018-m-parent,
+.our-services-inner1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1082px;
+  height: 0.05px;
+}
+.our-services-inner1 {
+  top: 3621.1px;
+  left: 261px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--dark);
+  font-family: var(--font-assistant);
+}
+.icon-facebook,
+.icon-social-linkedin {
+  position: absolute;
+  height: 0.71%;
+  width: 1.91%;
+  top: 90.42%;
+  right: 9.48%;
+  bottom: 8.86%;
+  left: 88.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-social-linkedin {
+  height: 0.73%;
+  width: 1.9%;
+  right: 5.81%;
+  bottom: 8.85%;
+  left: 92.29%;
+}
+.line-div {
+  position: absolute;
+  top: 3596px;
+  left: 258px;
+  border-top: 2px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 1086px;
+  height: 2px;
+}
+.get-in-touch {
+  position: absolute;
+  top: 16px;
+  left: 18px;
+  font-size: var(--text-2-regular-size);
+  letter-spacing: 0.01em;
+  line-height: 20px;
+  font-family: var(--text-2-regular);
+  color: var(--vrgear-light-color-background);
+  text-align: left;
+}
+.center-frame-icon {
+  position: absolute;
+  top: 16px;
+  left: 141px;
+  width: 10px;
+  height: 20px;
+}
+.get-in-touch-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: calc(50% - 1369.5px);
+  left: 63px;
+  border-radius: var(--br-5xs);
+  background: linear-gradient(
+    100.16deg,
+    rgba(254, 53, 6, 0.7),
+    rgba(61, 52, 164, 0.7)
+  );
+  box-shadow: 0 4px 8px rgba(225, 248, 253, 0.1) inset,
+    0 6px 10px rgba(0, 0, 0, 0.14), 0 1px 18px rgba(0, 0, 0, 0.12),
+    0 3px 5px rgba(0, 0, 0, 0.2);
+  width: 169px;
+  height: 52px;
+}
+.our-services {
+  position: relative;
+  background-color: var(--vrgear-light-color-background);
+  width: 100%;
+  height: 3769px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-inherit);
+  color: var(--text-txt-primary);
+  font-family: var(--text-2-regular);
+}
